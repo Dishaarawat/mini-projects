@@ -1,2 +1,2 @@
-# mini-projects
-Here i have made some mini projects while learning frontend development
+# Bgcolor Changer
+Here i have made this using javascript for changing background color when we click on button.
